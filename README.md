@@ -24,7 +24,7 @@ This is a `text`.
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+Strong emphasis, aka bold, with **asterisks or *underscores***.
 
 Combined emphasis with **asterisks and _underscores_**.
 
