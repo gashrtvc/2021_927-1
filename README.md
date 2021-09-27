@@ -41,18 +41,18 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 4.And another item.
   ...* note 1 
   ...* note 2
-  *** note3
+  *** note 3
   
 - [ ] todo list
 - [ ] 2nd things 
   
-PYTHON CODE
+python code
 ```py
 s = "Python syntax highlighting"
 print s
 ```
 
-JAVASCRIPT CODE
+javascript code
 ```js
 var s = "JavaScript syntax highllghting";
 alart(s);
