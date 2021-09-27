@@ -17,4 +17,20 @@
 
 ![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "高科大")
 
-![new fig](143086969_2237901296354689_6815140922917255134_n.jpg "香香")
+![new fig](143086969_2237901296354689_6815140922917255134_n.jpg "兔逼康踢牛")
+
+This is a `text`.
+`This is a long quote`.
+
+Emphasis, aka italics, with *asterisks* or _underscores_.
+
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough uses two tildes. ~~Scratch this.~~
+
+- [x] 1
+- [ ] 2
+- [x] 3
+- [ ] 4
